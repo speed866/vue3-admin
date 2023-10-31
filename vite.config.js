@@ -23,5 +23,5 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   },
-  baee: 'vue3-admin'
+  base: 'vue3-admin'
 })
