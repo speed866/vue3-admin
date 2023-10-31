@@ -1,6 +1,6 @@
 # vue3-admin
 
-This template should help get you started developing with Vue 3 in Vite.
+一个基于Vue3构建的简易后台模版
 
 ## Recommended IDE Setup
 
